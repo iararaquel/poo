@@ -1,5 +1,3 @@
-package P_O_O.Lista em sala.Questao2;
-
 import java.util.Scanner;
 
 public class Main {
